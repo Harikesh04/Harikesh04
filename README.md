@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **MERN , DSA**
+- 💬 Ask me about **MERN STACK , DSA**
 
 - 📫 How to reach me **harikeshkrsingh20@gmail.com**
 
