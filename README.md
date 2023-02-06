@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **MERN STACK , DSA**
+- 💬 Ask me about **Web Dev , Data Structures and Algorithms**
 
 - 📫 How to reach me **harikeshkrsingh20@gmail.com**
 
@@ -23,6 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikesh04&show_icons=true&locale=en&layout=compact" alt="harikesh04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikesh04&show_icons=true&locale=en" alt="harikesh04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikesh04&" alt="harikesh04" /></p>
