@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Engineer with over 2 years of experience in multiple product-based startups. Passionate about creating exceptional user interfaces for challenging projects. I specialize in developing robust, scalable, and user-centric web applications using cutting-edge technologies.⚡ 
+Full Stack Engineer with over 3+ years of experience in multiple product-based startups. Passionate about creating exceptional user interfaces for challenging projects. I specialize in developing robust, scalable, and user-centric web applications using cutting-edge technologies.⚡ 
 
 <a href="https://www.harikeshsingh.com/" target="_blank"><b>Check my work here</b></a>
 
