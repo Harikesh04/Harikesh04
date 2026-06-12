@@ -1,8 +1,8 @@
 # Harikesh Singh
 
-Full Stack Engineer who builds products, not just features.
+Product Engineer who builds products, not just features.
 
-3+ years shipping web apps and mobile apps at product-based startups — healthcare, fintech, SaaS. I care about what ships, how fast it ships, and whether it actually solves a real problem.
+3+ years shipping web and mobile apps at product-based startups. I care about what ships, how fast it ships, and whether it actually solves a real problem.
 
 <br/>
 
@@ -31,7 +31,7 @@ Infra       AWS  ·  Docker  ·  Kubernetes  ·  Linux
 
 **Find me**
 
-[harikeshsingh.com](https://harikeshsingh.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/singhharikesh) &nbsp;·&nbsp; [Twitter](https://twitter.com/singhharikesh_)
+[harikeshsingh.com](https://harikeshsingh.com) &nbsp;·&nbsp;[Twitter](https://twitter.com/singhharikesh_) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/singhharikesh) 
 
 <br/>
 
