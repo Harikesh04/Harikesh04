@@ -2,7 +2,7 @@
 
 Product Engineer who builds products, not just features.
 
-3+ years shipping web and mobile apps at product-based startups. I care about what ships, how fast it ships, and whether it actually solves a real problem.
+4+ years shipping web and mobile apps at product-based startups. I care about what ships, how fast it ships, and whether it actually solves a real problem.
 
 <br/>
 
